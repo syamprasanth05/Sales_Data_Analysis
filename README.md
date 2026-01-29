@@ -90,7 +90,7 @@ Step 14 : Added text boxes, shapes, and icons for better dashboard layout.
 
 Step 15 : Final dashboard was published to Power BI Service.
 
-`DAX Measures Used`
+## DAX Measures Used
 `Total Sales = SUM(Sales[Sales_Amount])`
 
 `Total Quantity = SUM(Sales[Quantity])`
